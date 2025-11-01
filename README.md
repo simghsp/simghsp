@@ -40,8 +40,7 @@
 <h2 style="color:#E67E22;">🌐 Connect with me</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/sapna-singh/"><img src="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg" width="35"></a>&nbsp;&nbsp;
-<a href="https://medium.com/"><img src="https://user-images.githubusercontent.com/78784617/229768482-62103fde-ec8b-4d4a-9a97-4e8375b89367.png" width="30"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sapna-singh-26a07a244/"><img src="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg" width="35"></a>&nbsp;&nbsp;
 <a href="https://github.com/simghsp"><img src="https://user-images.githubusercontent.com/78784617/229763566-ac00e56a-b8ec-4e9f-92c8-b23c95465cfe.svg" width="30"></a>
 </p>
 
