@@ -1,46 +1,82 @@
-<!-- Intro --!>
-<h1 align="center"> Hi, I'm Sapna Singh👋 👨🏻‍💻</h1> 
+<!-- Profile README for GitHub: Sapna Singh -->
 
+<h1 align="center" style="color:#F39C12;">Hi, I'm Sapna Singh 👋 👩🏻‍💻</h1>
 
-<!-- Profile Poster --!>
-<img align ="center" src="https://github.com/k-gourav/k-gourav/assets/78784617/e49cc288-3674-4bc6-99bc-d5459371e39b">
+<p align="center">
+  <img src="https://github.com/simghsp/simghsp/assets/YOUR-ASSET-ID-HERE" alt="Profile Poster" width="80%"/>
+</p>
 
+---
 
+<h2 style="color:#E74C3C;">🙋🏻‍♀ About Me</h2>
 
+<ul>
+  <li>💻 Backend Engineer passionate about building robust and scalable applications.</li>
+  <li>⚙️ Skilled in crafting APIs and managing data flow efficiently using <b>MERN Stack</b> and <b>Python</b>.</li>
+  <li>🚀 Constantly learning, experimenting, and exploring new backend tools and technologies.</li>
+  <li>✍️ Sometimes, you can find me sharing thoughts and learnings on <a href="https://medium.com/" style="color:#3498DB;">Medium</a>.</li>
+</ul>
 
-<!-- About Me section --!>
-<h2> 🙋🏻‍♂ About Me : </h2>
+<h4 style="color:#9B59B6;">☕ Fun Fact:</h4> Coffee and code are my favorite debugging combo 💻
 
-1. Software Engineer based in India who enjoys both development and designing. </br>
-2. Building impactful products that can actually help people ease their daily life.</br>
-3. Sometimes, you can find me on <a href="https://medium.com/@gourav2022">Medium</a> sharing about my learnings.</br>
-<span>
+---
 
+<h2 style="color:#1ABC9C;">⚒ Languages & Technologies</h2>
 
+<p>
+<img src="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229759217-fd300475-698d-4a95-89a0-ffc398ec87d0.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229761105-77f7ad6c-4819-4c6b-9f19-850bd661687b.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229763566-ac00e56a-b8ec-4e9f-92c8-b23c95465cfe.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229760536-a45c8a76-5a3b-4d2b-8ff4-a88e2706d619.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229762435-3aa8df21-382d-462e-8041-27e7faadde9c.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229764016-f92adbd0-84c3-4af0-b26c-abc4b7721ffc.svg" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/78784617/229829107-0ed4bdf2-9349-4e3f-ba82-ef78a63491f6.png" width="45" height="45"/>
+</p>
 
-<h4>Fun Fact :</h4> Open minded, easy-going and open for discussions on literally anything.
+---
 
-<!-- Tech Skills --!>
-<h2> ⚒ Languages & Technologies :</h2>
-<span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="50px" height="50px">
-<img src ="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="50px" height="50px">
-<img src ="https://user-images.githubusercontent.com/78784617/229759217-fd300475-698d-4a95-89a0-ffc398ec87d0.svg" width="50px" height="50px">
-<img src="https://user-images.githubusercontent.com/78784617/229760536-a45c8a76-5a3b-4d2b-8ff4-a88e2706d619.svg" width="50px" height="50px">
-<img src= "https://user-images.githubusercontent.com/78784617/229764016-f92adbd0-84c3-4af0-b26c-abc4b7721ffc.svg" width="50px" height="50px">
-<img src= "https://user-images.githubusercontent.com/78784617/229829107-0ed4bdf2-9349-4e3f-ba82-ef78a63491f6.png" width="50px" height="50px">
-<img src= "https://user-images.githubusercontent.com/78784617/229761105-77f7ad6c-4819-4c6b-9f19-850bd661687b.svg" width="50px" height="50px">
-<img src="https://user-images.githubusercontent.com/78784617/229761812-a1ad001b-1c19-4add-a32a-f3b3e1fb3544.svg" width="50px" height="50px">
-<img src= "https://user-images.githubusercontent.com/78784617/229762435-3aa8df21-382d-462e-8041-27e7faadde9c.svg" width="50px" height="50px">
-<img src= "https://user-images.githubusercontent.com/78784617/229763566-ac00e56a-b8ec-4e9f-92c8-b23c95465cfe.svg" width="50px" height="50px">
-</span>
+<h2 style="color:#E67E22;">🌐 Connect with me</h2>
 
-<!-- Social Media Handles --!>
-<h2> 🌐 Connect with me :</h2>
+<p>
+<a href="https://www.linkedin.com/in/sapna-singh/"><img src="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg" width="35"></a>&nbsp;&nbsp;
+<a href="https://medium.com/"><img src="https://user-images.githubusercontent.com/78784617/229768482-62103fde-ec8b-4d4a-9a97-4e8375b89367.png" width="30"></a>&nbsp;&nbsp;
+<a href="https://github.com/simghsp"><img src="https://user-images.githubusercontent.com/78784617/229763566-ac00e56a-b8ec-4e9f-92c8-b23c95465cfe.svg" width="30"></a>
+</p>
 
-<a href="https://www.linkedin.com/in/k-gourav/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
- width="35px" height="35px"></a> &nbsp
-<a href="https://twitter.com/dwarfstar99"><img src="https://user-images.githubusercontent.com/78784617/229769750-177a71de-d1d1-4d0e-905f-bdd423a48ecd.svg"
-width="30px" height="30px"></a> &nbsp
-<a href="https://medium.com/@gourav2022"><img src="https://user-images.githubusercontent.com/78784617/229768482-62103fde-ec8b-4d4a-9a97-4e8375b89367.png"
-width="30px" height="30px"></a> &nbsp&nbsp
-<a href="https://www.youtube.com/channel/UCgqIoIDUrmtjvmkAcRJFCKw"><img src ="https://user-images.githubusercontent.com/78784617/229769406-508f158b-a39f-437c-9bfc-298fcbb8d5cc.svg" width=
+---
+
+<h2 style="color:#9B59B6;">💻 My Top Projects</h2>
+
+<ul>
+  <li><b>CODSOFT</b> — Python internship projects like Todo-list, Calculator, Password Generator, Contact Book. <br><i>Language:</i> Python 🐍</li>
+  <li><b>Portfio</b> — Personal portfolio site using HTML & CSS. 🎨</li>
+  <li><b>mernstack-project</b> — Full MERN project for backend + frontend integration. ⚙️</li>
+  <li><b>PHP</b> — PHP practice repository. 💾</li>
+  <li><b>Text-Based-Adventure-Game</b> — Fun Python console game 🕹️</li>
+</ul>
+
+---
+
+<h2 style="color:#2ECC71;">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=simghsp&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simghsp&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+<h2 style="color:#3498DB;">💭 Thought for Developers</h2>
+
+<blockquote><q>Focus on solving problems, not just writing code — clarity beats complexity.</q></blockquote>
+
+---
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/sapnasingh"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg" width="150"></a>
+</p>
+
+<p align="center" style="color:#95A5A6; font-size:12px;">Generated on Nov 1, 2025 — Repositories synced from the public GitHub profile of Sapna Singh.</p>
