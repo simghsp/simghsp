@@ -3,7 +3,7 @@
 <h1 align="center" style="color:#F39C12;">Hi, I'm Sapna Singh 👋 👩🏻‍💻</h1>
 
 <p align="center">
-  <img src="https://github.com/simghsp/simghsp/assets/YOUR-ASSET-ID-HERE" alt="Profile Poster" width="80%"/>
+  <img  src="https://github.com/user-attachments/assets/db91c280-2b45-4e17-9fd1-86a742035945" /> alt="Profile Poster" width="80%"/>
 </p>
 
 ---
