@@ -68,9 +68,6 @@
 
 ---
 
-<h2 style="color:#3498DB;">💭 Thought for Developers</h2>
-
-<blockquote><q>Focus on solving problems, not just writing code — clarity beats complexity.</q></blockquote>
 
 ---
 
