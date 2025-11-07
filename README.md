@@ -71,4 +71,3 @@
 <a href="https://www.buymeacoffee.com/sapnasingh"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg" width="150"></a>
 </p>
 
-<p align="center" style="color:#95A5A6; font-size:12px;">Generated on Nov 1, 2025 — Repositories synced from the public GitHub profile of Sapna Singh.</p>
