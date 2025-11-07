@@ -66,10 +66,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simghsp&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
 
----
-
-
----
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/sapnasingh"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg" width="150"></a>
